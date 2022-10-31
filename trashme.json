@@ -1,0 +1,9 @@
+{
+  "nodes": {
+    "id": 1,
+    "member": "mobile",
+    "type": "gateway",
+    "payload": "117.53.45.140"
+  },
+  "part": 1
+}
